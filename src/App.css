@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.marked-text {
+  background-color: #61dafb;
+  color: #ffffff;
+}
+.search-list {
+  font-size: 1.5rem;
+  list-style-type: none;
+}
+.search-list li {
+  margin-bottom: 50px;
+  float: left;
+}
+
+.search-list li a {
+  margin-bottom: 10px;
+  color: white;
+}
